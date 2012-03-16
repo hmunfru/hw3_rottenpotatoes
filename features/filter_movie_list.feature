@@ -4,6 +4,7 @@ Feature: display list of movies filtered by MPAA rating
   So that I can quickly browse movies appropriate for my family
   I want to see movies matching only certain MPAA ratings
 
+
 Background: movies have been added to database
 
   Given the following movies exist:
